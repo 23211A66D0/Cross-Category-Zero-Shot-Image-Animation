@@ -57,11 +57,9 @@ The framework consists of four major components:
 
 ## 📷 Sample Outputs
 
-### Driving Video Frames (4×2 Layout)
-![Driving Video](Results/Driving_Video_Frames_4x2_Layout.png)
+![Driving Video](Driving_Video_Frames_4x2_Layout.png)
 
-### Generated Animation Output (4×2 Layout)
-![Generated Output](Results/Generated_Output_Frames_4x2_Layout.png)
+![Generated Output](Generated_Output_Frames_4x2_Layout.png)
 
 ---
 
